@@ -1,0 +1,22 @@
+{
+  "name": "thoth",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Styles <matt@veryfizzyjelly.com>"
+  ],
+  "description": "Super simple console sugar for the browser",
+  "main": "thoth.js",
+  "keywords": [
+    "log",
+    "console",
+    "message"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
